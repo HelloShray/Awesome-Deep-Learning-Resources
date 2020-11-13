@@ -25,6 +25,11 @@
 - **Learning and transferring mid-Level image representations using convolutional neural networks** (2014), M. Oquab et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Oquab_Learning_and_Transferring_2014_CVPR_paper.pdf)
 - **Visualizing and understanding convolutional networks** (2014), M. Zeiler and R. Fergus [[pdf]](http://arxiv.org/pdf/1311.2901)
 - **Decaf: A deep convolutional activation feature for generic visual recognition** (2014), J. Donahue et al. [[pdf]](http://arxiv.org/pdf/1310.1531)
+- **Deep Learning of Representations for Unsupervised and Transfer Learning**. Bengio, Yoshua. (2012): 17-36. [[pdf]](http://www.jmlr.org/proceedings/papers/v27/bengio12a/bengio12a.pdf)
+- **Lifelong Machine Learning Systems: Beyond Learning Algorithms**. Silver, Daniel L., Qiang Yang, and Lianghao Li.2013. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.696.7800&rep=rep1&type=pdf)
+- **Policy distillation**. Rusu, Andrei A., et al.(2015). [[pdf]](http://arxiv.org/pdf/1511.06295)
+- **Actor-mimic: Deep multitask and transfer reinforcement learning**. Parisotto, Emilio, Jimmy Lei Ba, and Ruslan Salakhutdinov.(2015). [[pdf]](http://arxiv.org/pdf/1511.06342)
+- **Progressive neural networks**. Rusu, Andrei A., et al. (2016). [[pdf]](https://arxiv.org/pdf/1606.04671)
 
 
 ## Optimization / Training Techniques
