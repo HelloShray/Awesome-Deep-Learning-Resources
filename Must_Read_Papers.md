@@ -1,10 +1,10 @@
 # Must Read Deep Learning Papers
 ![Banner](https://github.com/theepiccode/Curated-Deep-Learning-Resources/blob/main/Banner.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theepiccode&label=Views&color=blue&style=plastic" alt="theepiccode" /> </p>
-<br>
 <a href = "https://invite.theepiccode.com" align = "left">
 <img src = "https://img.shields.io/badge/Discord-Join%20the%20Server-blue" /> 
 </a>
+<br>
 <br>
 <a href="https://twitter.com/theepiccode1">
   <img align="left" alt="theepiccode's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
