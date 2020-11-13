@@ -8,7 +8,7 @@
 * [Unsupervised / Generative Models](#unsupervised--generative-models)
 * [Convolutional Network Models](#convolutional-neural-network-models)
 * [Image Segmentation / Object Detection](#image-segmentation--object-detection)
-* [Image / Video / Etc](#image--video--etc)
+* [Image and Video](#image--video--etc)
 * [Natural Language Processing / RNNs](#natural-language-processing--rnns)
 * [Speech / Other Domain](#speech--other-domain)
 * [Reinforcement Learning / Robotics](#reinforcement-learning--robotics)
@@ -96,7 +96,7 @@
 - **R-FCN: Object Detection via Region-based Fully Convolutional Networks**." Dai, Jifeng, et al. (2016). [[pdf]](https://arxiv.org/abs/1605.06409) 
 - **Mask R-CNN**. He, Gkioxari, et al. (2017). [[pdf]](https://arxiv.org/abs/1703.06870)
 
-## Image / Video / Etc
+## Image and Video
 - **Image Super-Resolution Using Deep Convolutional Networks** (2016), C. Dong et al. [[pdf]](https://arxiv.org/pdf/1501.00092v3.pdf)
 - **A neural algorithm of artistic style** (2015), L. Gatys et al. [[pdf]](https://arxiv.org/pdf/1508.06576)
 - **Deep visual-semantic alignments for generating image descriptions** (2015), A. Karpathy and L. Fei-Fei [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf)
