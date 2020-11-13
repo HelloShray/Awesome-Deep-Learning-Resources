@@ -5,7 +5,7 @@
 * [General Understanding](#general-understanding)
 * [Neural Turing Machines](#neural-turing-machines)
 * [Optimization / Training Techniques](#optimization--training-techniques)
-* [Unsupervised / Generative Models](#unsupervised--generative-models)
+* [Unsupervised Learning](#unsupervised-learning)
 * [Convolutional Network Models](#convolutional-neural-network-models)
 * [Image Segmentation / Object Detection](#image-segmentation--object-detection)
 * [Image and Video](#image-and-video)
@@ -54,7 +54,7 @@
 - **Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding**. Han, Song, Huizi Mao, and William J. Dally.(2015). [[pdf]](https://pdfs.semanticscholar.org/5b6c/9dda1d88095fa4aac1507348e498a1f2e863.pdf)
 - **SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size**. Iandola, Forrest N., et al.(2016). [[pdf]](http://arxiv.org/pdf/1602.07360)
 
-## Unsupervised / Generative Models
+## Unsupervised Learning
 - **Pixel recurrent neural networks** (2016), A. Oord et al. [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
 - **Improved techniques for training GANs** (2016), T. Salimans et al. [[pdf]](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf)
 - **Unsupervised representation learning with deep convolutional generative adversarial networks** (2015), A. Radford et al. [[pdf]](https://arxiv.org/pdf/1511.06434v2)
