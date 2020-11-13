@@ -1,4 +1,5 @@
 # Must Read Deep Learning Papers
+![Banner](https://github.com/theepiccode/Curated-Deep-Learning-Resources/blob/main/Banner.png)
 
 # Table of Content
 * [The Classics](#the-classics)
