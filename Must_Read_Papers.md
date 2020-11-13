@@ -49,7 +49,10 @@
 - **Adam: A method for stochastic optimization** (2014), D. Kingma and J. Ba [[pdf]](http://arxiv.org/pdf/1412.6980)
 - **Improving neural networks by preventing co-adaptation of feature detectors** (2012), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1207.0580.pdf)
 - **Random search for hyper-parameter optimization** (2012) J. Bergstra and Y. Bengio [[pdf]](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a)
-
+- **On the importance of initialization and momentum in deep learning**. Sutskever, Ilya, et al. (2013) [[pdf]](http://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf)
+- **Learning to learn by gradient descent by gradient descent**. Andrychowicz, Marcin, et al. (2016). [[pdf]](https://arxiv.org/pdf/1606.04474)
+- **Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding**. Han, Song, Huizi Mao, and William J. Dally.(2015). [[pdf]](https://pdfs.semanticscholar.org/5b6c/9dda1d88095fa4aac1507348e498a1f2e863.pdf)
+- **SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size**. Iandola, Forrest N., et al.(2016). [[pdf]](http://arxiv.org/pdf/1602.07360)
 
 ## Unsupervised / Generative Models
 - **Pixel recurrent neural networks** (2016), A. Oord et al. [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
