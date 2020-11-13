@@ -144,7 +144,9 @@
 - **Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups** (2012), G. Hinton et al. [[pdf]](http://www.cs.toronto.edu/~asamir/papers/SPM_DNN_12.pdf)
 - **Context-dependent pre-trained deep neural networks for large-vocabulary speech recognition** (2012) G. Dahl et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.337.7548&rep=rep1&type=pdf)
 - **Acoustic modeling using deep belief networks** (2012), A. Mohamed et al. [[pdf]](http://www.cs.toronto.edu/~asamir/papers/speechDBN_jrnl.pdf)
-
+- **Towards End-To-End Speech Recognition with Recurrent Neural Networks**. Graves, Alex, and Navdeep Jaitly. 2014. [[pdf]](http://www.jmlr.org/proceedings/papers/v32/graves14.pdf)
+- **Fast and accurate recurrent neural network acoustic models for speech recognition**. Sak, Haşim, et al. (2015). [[pdf]](http://arxiv.org/pdf/1507.06947)
+- **Achieving Human Parity in Conversational Speech Recognition**. W. Xiong, J. Droppo, X. Huang, F. Seide, M. Seltzer, A. Stolcke, D. Yu, G. Zweig  (2016). [[pdf]](https://arxiv.org/pdf/1610.05256v1)
 
 ## Reinforcement Learning / Robotics
 - **End-to-end training of deep visuomotor policies** (2016), S. Levine et al. [[pdf]](http://www.jmlr.org/papers/volume17/15-522/source/15-522.pdf)
