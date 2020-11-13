@@ -72,6 +72,10 @@
 - **Learning to segment object candidates.** Pinheiro, P.O., Collobert, R., Dollar, P.  In: NIPS. 2015. [[pdf]](https://arxiv.org/pdf/1506.06204v2.pdf) 
 - **Instance-aware semantic segmentation via multi-task network cascades**. Dai, J., He, K., Sun, J. In CVPR. 2016 [[pdf]](https://arxiv.org/pdf/1512.04412v1.pdf) 
 - **Instance-sensitive Fully Convolutional Networks**. Dai, J., He, K., Sun, J. (2016). [[pdf]](https://arxiv.org/pdf/1603.08678v1.pdf) 
+- **Deep neural networks for object detection**. Szegedy, Christian, Alexander Toshev, and Dumitru Erhan. 2013. [[pdf]](http://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf) 
+- **SSD: Single Shot MultiBox Detector**. Liu, Wei, et al. (2015). [[pdf]](http://arxiv.org/pdf/1512.02325)
+- **R-FCN: Object Detection via Region-based Fully Convolutional Networks**." Dai, Jifeng, et al. (2016). [[pdf]](https://arxiv.org/abs/1605.06409) 
+- **Mask R-CNN**. He, Gkioxari, et al. (2017). [[pdf]](https://arxiv.org/abs/1703.06870)
 
 ## Image / Video / Etc
 - **Image Super-Resolution Using Deep Convolutional Networks** (2016), C. Dong et al. [[pdf]](https://arxiv.org/pdf/1501.00092v3.pdf)
