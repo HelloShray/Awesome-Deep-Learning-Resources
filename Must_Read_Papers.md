@@ -110,7 +110,12 @@
 - **Efficient estimation of word representations in vector space** (2013), T. Mikolov et al.  [[pdf]](http://arxiv.org/pdf/1301.3781)
 - **Recursive deep models for semantic compositionality over a sentiment treebank** (2013), R. Socher et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)
 - **Generating sequences with recurrent neural networks** (2013), A. Graves. [[pdf]](https://arxiv.org/pdf/1308.0850)
-
+- **Joint Learning of Words and Meaning Representations for Open-Text Semantic Parsing**. Antoine Bordes, et al. AISTATS(2012) [[pdf]](https://www.hds.utc.fr/~bordesan/dokuwiki/lib/exe/fetch.php id=en%3Apubli&cache=cache&media=en:bordes12aistats.pdf) 
+- **Ask Me Anything: Dynamic Memory Networks for Natural Language Processing**. Ankit Kumar, et al. (2015) [[pdf]](https://arxiv.org/abs/1506.07285)
+- **Character-Aware Neural Language Models**(2015) [[pdf]](https://arxiv.org/abs/1508.06615)
+- **Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks**. Jason Weston, et al.(2015) [[pdf]](https://arxiv.org/abs/1502.05698)
+- **Very Deep Convolutional Networks for Natural Language Processing**. Alexis Conneau, et al. (2016) [[pdf]](https://arxiv.org/abs/1606.01781)
+- **Bag of Tricks for Efficient Text Classification**. Armand Joulin, et al. (2016) [[pdf]](https://arxiv.org/abs/1607.01759)
 
 ## Speech / Other Domain
 - **End-to-end attention-based large vocabulary speech recognition** (2016), D. Bahdanau et al. [[pdf]](https://arxiv.org/pdf/1508.04395)
