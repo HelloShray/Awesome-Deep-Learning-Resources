@@ -10,7 +10,7 @@
 * [Image Segmentation / Object Detection](#image-segmentation--object-detection)
 * [Image and Video](#image-and-video)
 * [Natural Language Processing](#natural-language-processing)
-* [Speech / Other Domain](#speech--other-domain)
+* [Speech](#speech)
 * [Reinforcement Learning / Robotics](#reinforcement-learning--robotics)
 
 ## The Classics
@@ -137,7 +137,7 @@
 - **Bag of Tricks for Efficient Text Classification**. Armand Joulin, et al. (2016) [[pdf]](https://arxiv.org/abs/1607.01759)
 - **A neural conversational model**. Vinyals, Oriol, and Quoc Le. (2015). [[pdf]](http://arxiv.org/pdf/1506.05869.pdf%20(http://arxiv.org/pdf/1506.05869.pdf))
 
-## Speech / Other Domain
+## Speech
 - **End-to-end attention-based large vocabulary speech recognition** (2016), D. Bahdanau et al. [[pdf]](https://arxiv.org/pdf/1508.04395)
 - **Deep speech 2: End-to-end speech recognition in English and Mandarin** (2015), D. Amodei et al. [[pdf]](https://arxiv.org/pdf/1512.02595)
 - **Speech recognition with deep recurrent neural networks** (2013), A. Graves [[pdf]](http://arxiv.org/pdf/1303.5778.pdf)
