@@ -1,5 +1,6 @@
 # Must Read Deep Learning Papers
 ![Banner](https://github.com/theepiccode/Curated-Deep-Learning-Resources/blob/main/Banner.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theepiccode&label=Views&color=blue&style=plastic" alt="theepiccode" /> </p>
 
 # Table of Content
 * [The Classics](#the-classics)
