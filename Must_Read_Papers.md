@@ -9,7 +9,7 @@
 * [Convolutional Network Models](#convolutional-neural-network-models)
 * [Image Segmentation / Object Detection](#image-segmentation--object-detection)
 * [Image and Video](#image-and-video)
-* [Natural Language Processing](#natural-language-processing--rnns)
+* [Natural Language Processing](#natural-language-processing)
 * [Speech / Other Domain](#speech--other-domain)
 * [Reinforcement Learning / Robotics](#reinforcement-learning--robotics)
 
@@ -110,7 +110,7 @@
 - **3D convolutional neural networks for human action recognition** (2013), S. Ji et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_JiXYY10.pdf)
 
 
-## Natural Language Processing / RNNs
+## Natural Language Processing
 - **Neural Architectures for Named Entity Recognition** (2016), G. Lample et al. [[pdf]](http://aclweb.org/anthology/N/N16/N16-1030.pdf)
 - **Exploring the limits of language modeling** (2016), R. Jozefowicz et al. [[pdf]](http://arxiv.org/pdf/1602.02410)
 - **Teaching machines to read and comprehend** (2015), K. Hermann et al. [[pdf]](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
