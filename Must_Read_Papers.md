@@ -1,6 +1,25 @@
 # Must Read Deep Learning Papers
 ![Banner](https://github.com/theepiccode/Curated-Deep-Learning-Resources/blob/main/Banner.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theepiccode&label=Views&color=blue&style=plastic" alt="theepiccode" /> </p>
+<a href="https://twitter.com/theepiccode1">
+  <img align="left" alt="theepiccode's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/company/theepiccode/">
+  <img align="left" alt="theepiccode's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/theepiccode">
+  <img align="left" alt="theepiccode's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/theepiccode/">
+  <img align="left" alt="theepiccode's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.youtube.com/theepiccode">
+  <img align="left" alt="theepiccode's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+[![Twitter: theepiccode1](https://img.shields.io/twitter/follow/theepiccode1?style=social)](https://twitter.com/theepiccode1)
+[![Linkedin: theepiccode](https://img.shields.io/badge/-theepiccode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/theepiccode/)](https://www.linkedin.com/company/theepiccode/)
+[![GitHub theepiccode](https://img.shields.io/github/followers/theepiccode?label=follow&style=social)](https://github.com/theepiccode)
 
 # Table of Content
 * [The Classics](#the-classics)
