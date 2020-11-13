@@ -8,8 +8,8 @@
 * [Unsupervised / Generative Models](#unsupervised--generative-models)
 * [Convolutional Network Models](#convolutional-neural-network-models)
 * [Image Segmentation / Object Detection](#image-segmentation--object-detection)
-* [Image and Video](#image--video--etc)
-* [Natural Language Processing / RNNs](#natural-language-processing--rnns)
+* [Image and Video](#image-and-video)
+* [Natural Language Processing](#natural-language-processing--rnns)
 * [Speech / Other Domain](#speech--other-domain)
 * [Reinforcement Learning / Robotics](#reinforcement-learning--robotics)
 
