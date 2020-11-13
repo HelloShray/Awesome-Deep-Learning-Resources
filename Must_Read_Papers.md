@@ -3,6 +3,7 @@
 # Table of Content
 * [The Classics](#the-classics)
 * [General Understanding](#general-understanding)
+* [Neural Turing Machines](#neural-turing-machines)
 * [Optimization / Training Techniques](#optimization--training-techniques)
 * [Unsupervised / Generative Models](#unsupervised--generative-models)
 * [Convolutional Network Models](#convolutional-neural-network-models)
@@ -31,6 +32,19 @@
 - **Actor-mimic: Deep multitask and transfer reinforcement learning**. Parisotto, Emilio, Jimmy Lei Ba, and Ruslan Salakhutdinov.(2015). [[pdf]](http://arxiv.org/pdf/1511.06342)
 - **Progressive neural networks**. Rusu, Andrei A., et al. (2016). [[pdf]](https://arxiv.org/pdf/1606.04671)
 
+## Neural Turing Machines
+
+- **Neural turing machines**. Graves, Alex, Greg Wayne, and Ivo Danihelka. (2014). [[pdf]](http://arxiv.org/pdf/1410.5401.pdf)
+
+- **Reinforcement learning neural Turing machines**. Zaremba, Wojciech, and Ilya Sutskever. (2015). [[pdf]](https://pdfs.semanticscholar.org/f10e/071292d593fef939e6ef4a59baf0bb3a6c2b.pdf) 
+
+- **Memory networks**. Weston, Jason, Sumit Chopra, and Antoine Bordes. (2014). [[pdf]](http://arxiv.org/pdf/1410.3916) 
+
+- **End-to-end memory networks**. Sukhbaatar, Sainbayar, Jason Weston, and Rob Fergus.2015. [[pdf]](http://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf) 
+
+- **Pointer networks**. Vinyals, Oriol, Meire Fortunato, and Navdeep Jaitly. 2015. [[pdf]](http://papers.nips.cc/paper/5866-pointer-networks.pdf) 
+
+- **Hybrid computing using a neural network with dynamic external memory**. Graves, Alex, et al. (2016). [[pdf]](https://www.dropbox.com/s/0a40xi702grx3dq/2016-graves.pdf) 
 
 ## Optimization / Training Techniques
 - **Training very deep networks** (2015), R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
