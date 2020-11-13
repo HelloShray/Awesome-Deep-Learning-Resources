@@ -148,3 +148,7 @@
 - **Deep Reinforcement Learning for Robotic Manipulation**. Gu, Shixiang, et al. (2016). [[pdf]](https://arxiv.org/pdf/1610.00633)
 - **Sim-to-Real Robot Learning from Pixels with Progressive Nets**. A Rusu, M Vecerik, Thomas Rothörl, N Heess, R Pascanu, R Hadsell (2016). [[pdf]](https://arxiv.org/pdf/1610.04286.pdf)
 - **Learning to navigate in complex environments**. Mirowski, Piotr, et al. (2016). [[pdf]](https://arxiv.org/pdf/1611.03673) 
+- **Dueling network architectures for deep reinforcement learning**. Wang, Ziyu, Nando de Freitas, and Marc Lanctot. (2015). [[pdf]](http://arxiv.org/pdf/1511.06581)
+- **Continuous Deep Q-Learning with Model-based Acceleration**. Gu, Shixiang, et al. (2016). [[pdf]](http://arxiv.org/pdf/1603.00748)
+- **Trust region policy optimization**. Schulman, John, et al. (2015). [[pdf]](http://www.jmlr.org/proceedings/papers/v37/schulman15.pdf)
+- **Mastering the game of Go with deep neural networks and tree search**. Silver, David, et al. (2016) [[pdf]](http://willamette.edu/~levenick/cs448/goNature.pdf)
