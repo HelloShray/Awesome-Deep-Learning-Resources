@@ -19,7 +19,6 @@
 
 [![Twitter: theepiccode1](https://img.shields.io/twitter/follow/theepiccode1?style=social)](https://twitter.com/theepiccode1)
 [![Linkedin: theepiccode](https://img.shields.io/badge/-theepiccode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/theepiccode/)](https://www.linkedin.com/company/theepiccode/)
-[![GitHub theepiccode](https://img.shields.io/github/followers/theepiccode?label=follow&style=social)](https://github.com/theepiccode)
 
 # Table of Content
 * [The Classics](#the-classics)
