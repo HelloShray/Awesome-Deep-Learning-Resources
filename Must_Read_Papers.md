@@ -35,15 +35,10 @@
 ## Neural Turing Machines
 
 - **Neural turing machines**. Graves, Alex, Greg Wayne, and Ivo Danihelka. (2014). [[pdf]](http://arxiv.org/pdf/1410.5401.pdf)
-
 - **Reinforcement learning neural Turing machines**. Zaremba, Wojciech, and Ilya Sutskever. (2015). [[pdf]](https://pdfs.semanticscholar.org/f10e/071292d593fef939e6ef4a59baf0bb3a6c2b.pdf) 
-
 - **Memory networks**. Weston, Jason, Sumit Chopra, and Antoine Bordes. (2014). [[pdf]](http://arxiv.org/pdf/1410.3916) 
-
 - **End-to-end memory networks**. Sukhbaatar, Sainbayar, Jason Weston, and Rob Fergus.2015. [[pdf]](http://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf) 
-
 - **Pointer networks**. Vinyals, Oriol, Meire Fortunato, and Navdeep Jaitly. 2015. [[pdf]](http://papers.nips.cc/paper/5866-pointer-networks.pdf) 
-
 - **Hybrid computing using a neural network with dynamic external memory**. Graves, Alex, et al. (2016). [[pdf]](https://www.dropbox.com/s/0a40xi702grx3dq/2016-graves.pdf) 
 
 ## Optimization / Training Techniques
@@ -135,6 +130,7 @@
 - **Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks**. Jason Weston, et al.(2015) [[pdf]](https://arxiv.org/abs/1502.05698)
 - **Very Deep Convolutional Networks for Natural Language Processing**. Alexis Conneau, et al. (2016) [[pdf]](https://arxiv.org/abs/1606.01781)
 - **Bag of Tricks for Efficient Text Classification**. Armand Joulin, et al. (2016) [[pdf]](https://arxiv.org/abs/1607.01759)
+- **A neural conversational model**. Vinyals, Oriol, and Quoc Le. (2015). [[pdf]](http://arxiv.org/pdf/1506.05869.pdf%20(http://arxiv.org/pdf/1506.05869.pdf))
 
 ## Speech / Other Domain
 - **End-to-end attention-based large vocabulary speech recognition** (2016), D. Bahdanau et al. [[pdf]](https://arxiv.org/pdf/1508.04395)
