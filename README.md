@@ -27,6 +27,7 @@ An awesome collection of curated deep learning resources(Books, Tutorials, Blogs
 <br>
 <br>
 
+
 TheEpicCode team will keep adding more resources for Machine Learning and Deep Learning from all domains.
 If you want to get involved with the community and publish your articles on our [website](https://theepiccode.com/), join our [Discord Server](https://invite.theepiccode.com). 
 
