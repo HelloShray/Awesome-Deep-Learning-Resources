@@ -26,6 +26,7 @@ An awesome collection of curated deep learning resources(Books, Tutorials, Blogs
 </a>
 <br>
 <br>
+
 # Table of Content
 * [The Classics](#the-classics)
 * [General Understanding](#general-understanding)
