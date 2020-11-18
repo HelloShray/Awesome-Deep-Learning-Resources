@@ -32,6 +32,6 @@ If you want to get involved with the community and publish your articles on our 
 
 So far check out the, 
 
-* [Must Read Papers](https://github.com/theepiccode/Curated-Deep-Learning-Resources/blob/main/Must_Read_Papers.md) file where we maintain a list of the classic ML papers one must read.
+* [Must Read Papers](https://github.com/theepiccode/Curated-Deep-Learning-Resources/tree/main/docs/README.md) file where we maintain a list of the classic ML papers one must read.
 
 * [Curated List of NLP Papers](https://github.com/theepiccode/Curated-Deep-Learning-Resources/blob/main/NLP/Papers.md) file where we maintain a exhaustive list of NLP papers in domains ranging from Distributed Word Representations to Relation Extraction!!
