@@ -2,7 +2,7 @@
 
 An awesome collection of curated deep learning resources(Books, Tutorials, Blogs, Podcasts , ...). 
 
-![Banner](https://github.com/theepiccode/Curated-Deep-Learning-Resources/blob/main/Banner.png)
+![Banner](https://1.bp.blogspot.com/-LNZGB-cLUHA/X7UbyyekTDI/AAAAAAAAACw/mfzwAGc2FREH7wY9x-fg3hrEdlmba5EdwCLcBGAsYHQ/w640-h360/Banner.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theepiccode&label=Views&color=blue&style=plastic" alt="theepiccode" /> </p>
 <a href = "https://invite.theepiccode.com" align = "left">
 <img src = "https://img.shields.io/badge/Discord-Join%20the%20Server-blue" /> 
