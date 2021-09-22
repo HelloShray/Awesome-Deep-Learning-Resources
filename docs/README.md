@@ -28,25 +28,13 @@ An awesome collection of curated deep learning resources(Books, Tutorials, Blogs
 <br>
 <br>
 
-# Table of Content
-* [The Classics](#the-classics)
-* [General Understanding](#general-understanding)
-* [Neural Turing Machines](#neural-turing-machines)
-* [Optimization / Training Techniques](#optimization--training-techniques)
-* [Unsupervised Learning](#unsupervised-learning)
-* [Convolutional Network Models](#convolutional-neural-network-models)
-* [Image Segmentation / Object Detection](#image-segmentation--object-detection)
-* [Image and Video](#image-and-video)
-* [Natural Language Processing](#natural-language-processing)
-* [Speech](#speech)
-* [Reinforcement Learning / Robotics](#reinforcement-learning--robotics)
-
-## The Classics
+### The Classics 🧓🏻
 
 - **A fast learning algorithm for deep belief nets**. Hinton, Geoffrey E., Simon Osindero, and Yee-Whye Teh. (2006) [[pdf]](http://www.cs.toronto.edu/~hinton/absps/ncfast.pdf)
 - **Reducing the dimensionality of data with neural networks**. Hinton, Geoffrey E., and Ruslan R. Salakhutdinov.  (2006) [[pdf]](http://www.cs.toronto.edu/~hinton/science.pdf)
 
-## General Understanding
+### General Understanding 🌏
+
 - **Distilling the knowledge in a neural network** (2015), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1503.02531)
 - **Deep neural networks are easily fooled: High confidence predictions for unrecognizable images** (2015), A. Nguyen et al. [[pdf]](http://arxiv.org/pdf/1412.1897)
 - **How transferable are features in deep neural networks?** (2014), J. Yosinski et al. [[pdf]](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf)
@@ -60,7 +48,7 @@ An awesome collection of curated deep learning resources(Books, Tutorials, Blogs
 - **Actor-mimic: Deep multitask and transfer reinforcement learning**. Parisotto, Emilio, Jimmy Lei Ba, and Ruslan Salakhutdinov.(2015). [[pdf]](http://arxiv.org/pdf/1511.06342)
 - **Progressive neural networks**. Rusu, Andrei A., et al. (2016). [[pdf]](https://arxiv.org/pdf/1606.04671)
 
-## Neural Turing Machines
+### Neural Turing Machines 🧠
 
 - **Neural turing machines**. Graves, Alex, Greg Wayne, and Ivo Danihelka. (2014). [[pdf]](http://arxiv.org/pdf/1410.5401.pdf)
 - **Reinforcement learning neural Turing machines**. Zaremba, Wojciech, and Ilya Sutskever. (2015). [[pdf]](https://pdfs.semanticscholar.org/f10e/071292d593fef939e6ef4a59baf0bb3a6c2b.pdf) 
@@ -69,7 +57,7 @@ An awesome collection of curated deep learning resources(Books, Tutorials, Blogs
 - **Pointer networks**. Vinyals, Oriol, Meire Fortunato, and Navdeep Jaitly. 2015. [[pdf]](http://papers.nips.cc/paper/5866-pointer-networks.pdf) 
 - **Hybrid computing using a neural network with dynamic external memory**. Graves, Alex, et al. (2016). [[pdf]](https://www.dropbox.com/s/0a40xi702grx3dq/2016-graves.pdf) 
 
-## Optimization / Training Techniques
+### Optimization / Training Techniques 🏂
 - **Training very deep networks** (2015), R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 - **Batch normalization: Accelerating deep network training by reducing internal covariate shift** (2015), S. Loffe and C. Szegedy [[pdf]](http://arxiv.org/pdf/1502.03167)
 - **Delving deep into rectifiers: Surpassing human-level performance on imagenet classification** (2015), K. He et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
@@ -82,7 +70,7 @@ An awesome collection of curated deep learning resources(Books, Tutorials, Blogs
 - **Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding**. Han, Song, Huizi Mao, and William J. Dally.(2015). [[pdf]](https://pdfs.semanticscholar.org/5b6c/9dda1d88095fa4aac1507348e498a1f2e863.pdf)
 - **SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size**. Iandola, Forrest N., et al.(2016). [[pdf]](http://arxiv.org/pdf/1602.07360)
 
-## Unsupervised Learning
+### Unsupervised Learning 👨‍🏫
 - **Pixel recurrent neural networks** (2016), A. Oord et al. [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
 - **Improved techniques for training GANs** (2016), T. Salimans et al. [[pdf]](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf)
 - **Unsupervised representation learning with deep convolutional generative adversarial networks** (2015), A. Radford et al. [[pdf]](https://arxiv.org/pdf/1511.06434v2)
@@ -93,7 +81,7 @@ An awesome collection of curated deep learning resources(Books, Tutorials, Blogs
 - **Conditional image generation with PixelCNN decoders**. Oord, Aaron van den, et al. (2016). [[pdf]](https://arxiv.org/pdf/1606.05328)
 
 
-## Convolutional Neural Network Models
+### Convolutional Neural Network Models 🌌
 - **Rethinking the inception architecture for computer vision** (2016), C. Szegedy et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf)
 - **Inception-v4, inception-resnet and the impact of residual connections on learning** (2016), C. Szegedy et al. [[pdf]](http://arxiv.org/pdf/1602.07261)
 - **Identity Mappings in Deep Residual Networks** (2016), K. He et al. [[pdf]](https://arxiv.org/pdf/1603.05027v2.pdf)
@@ -107,7 +95,7 @@ An awesome collection of curated deep learning resources(Books, Tutorials, Blogs
 - **Network in network** (2013), M. Lin et al. [[pdf]](http://arxiv.org/pdf/1312.4400)
 - **ImageNet classification with deep convolutional neural networks** (2012), A. Krizhevsky et al. [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
-## Image: Segmentation / Object Detection
+### Image: Segmentation / Object Detection 🏞
 - **You only look once: Unified, real-time object detection** (2016), J. Redmon et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
 - **Fully convolutional networks for semantic segmentation** (2015), J. Long et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
 - **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** (2015), S. Ren et al. [[pdf]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)
@@ -124,7 +112,7 @@ An awesome collection of curated deep learning resources(Books, Tutorials, Blogs
 - **R-FCN: Object Detection via Region-based Fully Convolutional Networks**." Dai, Jifeng, et al. (2016). [[pdf]](https://arxiv.org/abs/1605.06409) 
 - **Mask R-CNN**. He, Gkioxari, et al. (2017). [[pdf]](https://arxiv.org/abs/1703.06870)
 
-## Image and Video
+### Image 👀 and Video 🎥
 - **Image Super-Resolution Using Deep Convolutional Networks** (2016), C. Dong et al. [[pdf]](https://arxiv.org/pdf/1501.00092v3.pdf)
 - **A neural algorithm of artistic style** (2015), L. Gatys et al. [[pdf]](https://arxiv.org/pdf/1508.06576)
 - **Deep visual-semantic alignments for generating image descriptions** (2015), A. Karpathy and L. Fei-Fei [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf)
@@ -137,7 +125,7 @@ An awesome collection of curated deep learning resources(Books, Tutorials, Blogs
 - **Two-stream convolutional networks for action recognition in videos** (2014), K. Simonyan et al. [[pdf]](http://papers.nips.cc/paper/5353-two-stream-convolutional-networks-for-action-recognition-in-videos.pdf)
 
 
-## Natural Language Processing
+### Natural Language Processing 💬
 - **Neural Architectures for Named Entity Recognition** (2016), G. Lample et al. [[pdf]](http://aclweb.org/anthology/N/N16/N16-1030.pdf)
 - **Exploring the limits of language modeling** (2016), R. Jozefowicz et al. [[pdf]](http://arxiv.org/pdf/1602.02410)
 - **Teaching machines to read and comprehend** (2015), K. Hermann et al. [[pdf]](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
@@ -163,7 +151,7 @@ An awesome collection of curated deep learning resources(Books, Tutorials, Blogs
 - **Bag of Tricks for Efficient Text Classification**. Armand Joulin, et al. (2016) [[pdf]](https://arxiv.org/abs/1607.01759)
 - **A neural conversational model**. Vinyals, Oriol, and Quoc Le. (2015). [[pdf]](http://arxiv.org/pdf/1506.05869.pdf%20(http://arxiv.org/pdf/1506.05869.pdf))
 
-## Speech
+### Speech 🗣
 - **End-to-end attention-based large vocabulary speech recognition** (2016), D. Bahdanau et al. [[pdf]](https://arxiv.org/pdf/1508.04395)
 - **Deep speech 2: End-to-end speech recognition in English and Mandarin** (2015), D. Amodei et al. [[pdf]](https://arxiv.org/pdf/1512.02595)
 - **Speech recognition with deep recurrent neural networks** (2013), A. Graves [[pdf]](http://arxiv.org/pdf/1303.5778.pdf)
@@ -174,7 +162,7 @@ An awesome collection of curated deep learning resources(Books, Tutorials, Blogs
 - **Fast and accurate recurrent neural network acoustic models for speech recognition**. Sak, Haşim, et al. (2015). [[pdf]](http://arxiv.org/pdf/1507.06947)
 - **Achieving Human Parity in Conversational Speech Recognition**. W. Xiong, J. Droppo, X. Huang, F. Seide, M. Seltzer, A. Stolcke, D. Yu, G. Zweig  (2016). [[pdf]](https://arxiv.org/pdf/1610.05256v1)
 
-## Reinforcement Learning / Robotics
+### Reinforcement Learning / Robotics 🤖
 - **Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection** (2016), S. Levine et al. [[pdf]](https://arxiv.org/pdf/1603.02199)
 - **Asynchronous methods for deep reinforcement learning** (2016), V. Mnih et al. [[pdf]](http://www.jmlr.org/proceedings/papers/v48/mniha16.pdf)
 - **Deep Reinforcement Learning with Double Q-Learning** (2016), H. Hasselt et al. [[pdf]](https://arxiv.org/pdf/1509.06461.pdf )
