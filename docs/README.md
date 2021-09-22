@@ -2,7 +2,7 @@
 
 An awesome collection of curated deep learning resources(Books, Tutorials, Blogs, Podcasts , ...). 
 
-![Banner](https://1.bp.blogspot.com/-LNZGB-cLUHA/X7UbyyekTDI/AAAAAAAAACw/mfzwAGc2FREH7wY9x-fg3hrEdlmba5EdwCLcBGAsYHQ/w640-h360/Banner.png)
+![Banner](https://github.com/theepiccode/TEC-Assets/blob/main/Images/Big-Banner.png?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theepiccode&label=Views&color=blue&style=plastic" alt="theepiccode" /> </p>
 <a href = "https://invite.theepiccode.com" align = "left">
@@ -135,7 +135,6 @@ An awesome collection of curated deep learning resources(Books, Tutorials, Blogs
 - **DeepFace: Closing the gap to human-level performance in face verification** (2014), Y. Taigman et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf):
 - **Large-scale video classification with convolutional neural networks** (2014), A. Karpathy et al. [[pdf]](http://vision.stanford.edu/pdf/karpathy14.pdf)
 - **Two-stream convolutional networks for action recognition in videos** (2014), K. Simonyan et al. [[pdf]](http://papers.nips.cc/paper/5353-two-stream-convolutional-networks-for-action-recognition-in-videos.pdf)
-- **3D convolutional neural networks for human action recognition** (2013), S. Ji et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_JiXYY10.pdf)
 
 
 ## Natural Language Processing
@@ -157,7 +156,6 @@ An awesome collection of curated deep learning resources(Books, Tutorials, Blogs
 - **Efficient estimation of word representations in vector space** (2013), T. Mikolov et al.  [[pdf]](http://arxiv.org/pdf/1301.3781)
 - **Recursive deep models for semantic compositionality over a sentiment treebank** (2013), R. Socher et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)
 - **Generating sequences with recurrent neural networks** (2013), A. Graves. [[pdf]](https://arxiv.org/pdf/1308.0850)
-- **Joint Learning of Words and Meaning Representations for Open-Text Semantic Parsing**. Antoine Bordes, et al. AISTATS(2012) [[pdf]](https://www.hds.utc.fr/~bordesan/dokuwiki/lib/exe/fetch.php?id=en%3Apubli&cache=cache&media=en:bordes12aistats.pdf) 
 - **Ask Me Anything: Dynamic Memory Networks for Natural Language Processing**. Ankit Kumar, et al. (2015) [[pdf]](https://arxiv.org/abs/1506.07285)
 - **Character-Aware Neural Language Models**(2015) [[pdf]](https://arxiv.org/abs/1508.06615)
 - **Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks**. Jason Weston, et al.(2015) [[pdf]](https://arxiv.org/abs/1502.05698)
@@ -177,7 +175,6 @@ An awesome collection of curated deep learning resources(Books, Tutorials, Blogs
 - **Achieving Human Parity in Conversational Speech Recognition**. W. Xiong, J. Droppo, X. Huang, F. Seide, M. Seltzer, A. Stolcke, D. Yu, G. Zweig  (2016). [[pdf]](https://arxiv.org/pdf/1610.05256v1)
 
 ## Reinforcement Learning / Robotics
-- **End-to-end training of deep visuomotor policies** (2016), S. Levine et al. [[pdf]](http://www.jmlr.org/papers/volume17/15-522/source/15-522.pdf)
 - **Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection** (2016), S. Levine et al. [[pdf]](https://arxiv.org/pdf/1603.02199)
 - **Asynchronous methods for deep reinforcement learning** (2016), V. Mnih et al. [[pdf]](http://www.jmlr.org/proceedings/papers/v48/mniha16.pdf)
 - **Deep Reinforcement Learning with Double Q-Learning** (2016), H. Hasselt et al. [[pdf]](https://arxiv.org/pdf/1509.06461.pdf )
@@ -196,4 +193,3 @@ An awesome collection of curated deep learning resources(Books, Tutorials, Blogs
 - **Dueling network architectures for deep reinforcement learning**. Wang, Ziyu, Nando de Freitas, and Marc Lanctot. (2015). [[pdf]](http://arxiv.org/pdf/1511.06581)
 - **Continuous Deep Q-Learning with Model-based Acceleration**. Gu, Shixiang, et al. (2016). [[pdf]](http://arxiv.org/pdf/1603.00748)
 - **Trust region policy optimization**. Schulman, John, et al. (2015). [[pdf]](http://www.jmlr.org/proceedings/papers/v37/schulman15.pdf)
-- **Mastering the game of Go with deep neural networks and tree search**. Silver, David, et al. (2016) [[pdf]](http://willamette.edu/~levenick/cs448/goNature.pdf)
