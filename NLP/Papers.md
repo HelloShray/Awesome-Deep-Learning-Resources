@@ -1,5 +1,6 @@
 # Must Read Natural Language Processing Papers
-![Banner](https://github.com/theepiccode/Curated-Deep-Learning-Resources/blob/main/Banner.png)
+
+![Banner](https://github.com/theepiccode/TEC-Assets/blob/main/Images/Big-Banner.png?raw=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theepiccode&label=Views&color=blue&style=plastic" alt="theepiccode" /> </p>
 <a href = "https://invite.theepiccode.com" align = "left">
 <img src = "https://img.shields.io/badge/Discord-Join%20the%20Server-blue" /> 
@@ -23,6 +24,7 @@
 </a>
 <br>
 <br>
+
 
 # Table of Content
 
